@@ -12,7 +12,7 @@ if exists("syntax_on")
 endif
 let g:colors_name = "darkBlue"
 
-hi Comment guifg=#6666ff
+hi Comment guifg=#0099ff
 hi Constant guifg=#99cc33
 hi Cursor guifg=#ffffff guibg=#335577
 hi CursorIM guifg=#00AAFF guibg=#FF66FF

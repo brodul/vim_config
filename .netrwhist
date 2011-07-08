@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/brodul/.ssh'
+let g:netrw_dirhist_2='/home/brodul/Hackish/linux_config/.vim'
+let g:netrw_dirhist_3='/home/brodul/Programming/Python/Django/siolrss/siolrss/parsers'
+let g:netrw_dirhist_4='/home/brodul/Nil'
